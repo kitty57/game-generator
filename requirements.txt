@@ -1,1 +1,3 @@
-streamlit>=1.26.0
+crewai
+langchain-google-genai
+streamlit
